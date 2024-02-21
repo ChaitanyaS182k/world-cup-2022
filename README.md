@@ -1,12 +1,10 @@
-# World Cup 2018 Data Analysis
+# World Cup 2022 Data Analysis
 
 In this project, I did an in-depth analysis and visualization on the FIFA18 dataset. The dataset is collected at this [GitHub Repo](https://github.com/amanthedorkknight/fifa18-all-player-statistics). The goal is to predict the best possible international squad lineups for these 10 teams: France, Germany, Spain, England, Brazil, Argentina, Belgium, Portugal, Uruguay, and Croatia at the 2018 World Cup this summer in Russia. 
 
-The complete notebook can be accessed [here](http://nbviewer.jupyter.org/github/khanhnamle1994/fifa18/blob/master/Ideal_Team_Lineup_World_Cup_2018.ipynb).
+The complete dataset can be accessed [here](https://www.kaggle.com/datasets/bryanb/fifa-player-stats-database?resource=download).
 
-I also wrote an accompanied blog post: [FIFA World Cup 2018: A Data-Drive Approach to Ideal Team Line Up](https://towardsdatascience.com/fifa-world-cup-2018-a-data-driven-approach-to-ideal-team-line-ups-93505cfe36f8).
-
-![world-cup](images/fifa-world-cup-2018.jpg)
+![world-cup](images/fifa-world-cup-2022.jpg)
 
 ## Dataset
 
@@ -22,11 +20,11 @@ The dataset contains all the statistics and playing attributes of all the player
 
 ## Data Source
 
-The data is scraped from the website [https://sofifa.com][1] by extracting the Player personal data and Player Ids and then the playing and style statistics.
+The data is taken from the Kaggle website. 
 
 ## Requirements
 
-* [Python 2.7](https://www.python.org/download/releases/2.7/) or [Python 3.6](https://www.python.org/downloads/release/python-360/)
+* [Python 3.0 or above](https://www.python.org/download/releases/3.0/) or [Python 3.12](https://www.python.org/downloads/release/python-312/)
 * [Jupyter Notebook](http://jupyter.org/)
 
 ## License
